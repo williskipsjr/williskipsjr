@@ -15,7 +15,7 @@
 
 ## About Me
 
-Data Science & AI Student at IIIT Dharwad  
+Data Science & AI Undergrad at IIIT Dharwad  
 Aspiring Data Scientist passionate about extracting meaningful insights from data  
 Exploring the cutting edge of Large Language Models (LLMs) and AI Operations  
 Football enthusiast & avid bookworm  
