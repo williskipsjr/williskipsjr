@@ -104,7 +104,8 @@ Learning Path:
   ### Fun Fact
   No matter who you are or where you're from—Jesus loves you!
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=williskipsjr&show_icons=true&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=williskipsjr&color=blueviolet&style=flat-square&label=Profile+Views" />
+
 
 
 </div>
