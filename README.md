@@ -104,6 +104,7 @@ Learning Path:
   ### Fun Fact
   No matter who you are or where you're from—Jesus loves you!
   
-  <img src="https://komarev.com/ghpvc/?username=williskipsjr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+![Profile Views](https://img.shields.io/github/watchers/williskipsjr/williskipsjr?label=Profile%20Views&style=flat-square&color=blueviolet)
+
 
 </div>
